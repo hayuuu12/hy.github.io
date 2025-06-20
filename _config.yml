@@ -10,9 +10,9 @@ name: 이하윤
 title: Backend Engineer
 email: hyprogramming@gmail.com
 # email_title: Email (Email title override)
-phone: 090-0000-0000
+phone: 010-0000-0000
 # phone_title: Phone (Phone title override)
-website: https://hayuuu12.github.io/hy.github.io/ (eg. https://google.com)(optional)
+website: https://hayuuu12.github.io/hy.github.io/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -23,7 +23,6 @@ twitter_username: ..
 github_username:  hayuuu12
 instagram_username: jekyll
 linkedin_username: jekyll
-pinterest_username: jekyll
 youtube_username: jekyll
 
 # Additional icon links
